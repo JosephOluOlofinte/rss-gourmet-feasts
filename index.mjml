@@ -26,8 +26,8 @@
         <!-- EMAIL TITLE -->
         <mj-section background-color="white" padding="20px 0">
             <mj-column width="90%">
-                <mj-text align="center" padding="0 10px" font-size="28px" line-height="40px">
-                    <b>TURN EVERYDAY MEALS INTO GOURMET FEASTS ✨</b>
+                <mj-text align="center" padding="0 10px" font-size="28px" line-height="40px" font-weight="600">
+                    TURN EVERYDAY MEALS INTO GOURMET FEASTS ✨
                 </mj-text>
 
                 <mj-text color="#ED8506" font-weight="600" align="center" padding-top="10px">
@@ -47,8 +47,8 @@
         <mj-section background-color="white" padding="20px 20px" padding-bottom="45px">
             <mj-column width="90%">
 
-                <mj-text font-size="28px" align="center">
-                    <b>A GOURMET TOUCH TO YOUR DISHES</b>
+                <mj-text font-size="28px" align="center" font-weight="600">
+                    A GOURMET TOUCH TO YOUR DISHES
                 </mj-text>
 
                 <mj-text align="center" padding="20px 0" font-size="18px" font-weight="600" color="#ED8506">
@@ -57,7 +57,6 @@
                 
                 <mj-text align="center" font-size="16px" line-height="25px" font-weight="400" padding-bottom="35px">
                     Discover how high-quality sea salts can elevate your everyday meals into gourmet experiences. Our selection of sea salts will bring new flavors and textures to your kitchen. Whether you're finishing a salad, seasoning meats, or adding a smoky twist to your favorite dishes, our sea salts are the perfect addition to your pantry.
-
                 </mj-text>
                 
                 <mj-button href="#"  padding="0 27px" align="center" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
