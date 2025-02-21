@@ -1,0 +1,128 @@
+<mjml>
+
+    <mj-head>
+        <mj-title>TURN EVERYDAY MEALS INTO GOURMET FEASTS ✨</mj-title>
+        <mj-breakpoint width="375px" />
+        <mj-attributes><mj-all padding="0" font-family="Raleway" /></mj-attributes>        
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+    </mj-head>
+
+    <mj-body background-color="#E8E6E6">
+
+        <!-- EMPTY SECTION FOR MARGIN -->
+        <mj-section padding="10px"></mj-section>
+
+        <!-- COLORED LINE FOR EFFECT -->
+        <mj-section background-color="#ED8506" padding="5px"></mj-section>
+        
+
+        <!-- COMPANY LOGO -->
+        <mj-section background-color="white" padding="20px 0" padding-top="40px">
+            <mj-column padding="0">
+                <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYc3pkf7o6ydi-2JYJwplQDGq9FkHme_akAuKs1X4EOZhyphenhyphen-dVH9KfrZKEVsoGtuutfgYDTlNaiSsbbwbMtXXs89MgZVsZsWv-wZrGssaKUm_I1WIxxxScqxLc6flARyyLsfmxEMVh5EfGGtvz32uwEGr1Z5UZlPssqeIvmUSfoYvGakQJ_OwZdIAm4W5A/s114/logo.png" alt="" height="60px" width="110px" />
+            </mj-column>
+        </mj-section>
+
+        <!-- EMAIL TITLE -->
+        <mj-section background-color="white" padding="20px 0">
+            <mj-column width="90%">
+                <mj-text align="center" padding="0 10px" font-size="28px" line-height="40px">
+                    <b>TURN EVERYDAY MEALS INTO GOURMET FEASTS ✨</b>
+                </mj-text>
+
+                <mj-text color="#ED8506" font-weight="600" align="center" padding-top="10px">
+                    Add a gourmet touch to your meals with our sea salts collection.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- HERO IMAGE -->
+        <mj-section background-color="white" padding="0">
+            <mj-column width="100%" padding="20px 0">
+                <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKkoiUlJG0iKtJ7qrFH3Xng3D-r1QmkzZZ1_baSxTopUSJI9boErM_r_qf193EQjI3IrmvgJKeAQZk-fAHA6irRwGQrlc_hoLoA8XYI3wj3r6GZMvP5aGXHP7SX79fhu2Q8o-Aw6f48xiRAZuapdA_rVC8CPVx8lyJF7d8GTk4BWkJDo_0kawD5i3JlRND/s320/gourmet-hero.png" alt="" />
+            </mj-column>
+        </mj-section>
+
+        <!-- EMAIL BODY COPY -->
+        <mj-section background-color="white" padding="20px 20px" padding-bottom="45px">
+            <mj-column width="90%">
+
+                <mj-text font-size="28px" align="center">
+                    <b>A GOURMET TOUCH TO YOUR DISHES</b>
+                </mj-text>
+
+                <mj-text align="center" padding="20px 0" font-size="18px" font-weight="600" color="#ED8506">
+                    Sea Salts for Delicious Results
+                </mj-text>
+                
+                <mj-text align="center" font-size="16px" line-height="25px" font-weight="400" padding-bottom="35px">
+                    Discover how high-quality sea salts can elevate your everyday meals into gourmet experiences. Our selection of sea salts will bring new flavors and textures to your kitchen. Whether you're finishing a salad, seasoning meats, or adding a smoky twist to your favorite dishes, our sea salts are the perfect addition to your pantry.
+
+                </mj-text>
+                
+                <mj-button href="#"  padding="0 27px" align="center" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                    Explore sea salt collection &rarr;
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- EMAIL FOOTER -->
+        <mj-wrapper background-color="#EDEBDE" padding="30px 0">
+
+            <!-- SOCIAL ICONS -->
+            <mj-section text-align="center">
+                <mj-column width="100%">
+
+                    <mj-social icon-padding="8px">
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoKOy6-dVCFcIaOtpEGeBOe7vFHLilyPL2YOFaSoK5cSrTytHodq1khSnGqAO12Hn4ecnkwJuqhAO_I4il1Jffs7pxw_pf2zou34RvpwjP7_dbhREkFIJn-n1DE_puJxaMyLx3FqikaAMfjDgykZKnwABwZliAYeDVsuLBy2V4uSQ3iEuik63gi7Zv8BgX/s1600/x-logo.png">                           
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3bl5L3TV5LOTsJRieqG-BB5lOdHsu-Q6qIs8dUt2SPjS3-VovDN5brpoCx2k4it8VNnOIB2cQ_w2A5Otl-WB9FtpugYBMkosbdey2tIW31e5jamZ36M_VTT-G-swJxSXug6t5zRGcR4VtsARLJXQVGPeivJ47FtVbKeuRqOWptbJ3Xjyvo4lEmyb6JjW1/s1600/fb-logo.png">                           
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWwvdNkYZeVENUAR_mTpL3_DQORTojsJwbWyPRuvj4nyUzbbbVrr-qfW-2AdaEIIrvt2DlS9VALYcmz8FOxVu8ga6CooFouvCeG4oLR9x97Wbxtq8sRxe0pY1k5jXatdRL1EBSDEW9ov_2eB0rl29fqhIQrN81Tmw38kXvI4x87QkHdEN5goZc8EyU-5e/s1600/in-logo.png">
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZK_nejoyZjVc3cZL9kQEFERty8-g7f2zVM1d3j_-4G6KpKJVqj6A0IojtXhD6LEt0Q3d27pNuGe2nE_z2dkao5fVw1tTz5KVhYySaD-XRK4UGMPx-Z28sBKcQkI9s9RwB8TvqurDFOCAfdm0nveFjzYiWei57rY3_Os846ZcUfGtq6mxDYBw-c56zPAI0/s1600/pin-logo.png">                           
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpF9v-naoST-k-CLAq5NNgZnDlpRVqjeJTxuZMBJtuOKS5ELOsF5OOoajnBYUIBInT2-IpAuO6U8l9kHaEYZuQo9P_GdB_eJFRNZEtum67Cf3lEsFtO1wqzfnwleUiuF7NguIs3du7E9SrVuhumJivuQ5fZxLnYl026EMPXMPtX6NlCdrof7LK-6yDxGxs/s1600/gram-logo.png">                            
+                        </mj-social-element>
+                    </mj-social>
+                </mj-column>
+            </mj-section>
+            
+            <!-- COMPANY LOGO -->
+            <mj-section padding="20px 0">
+                <mj-column padding="0">
+                    <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYc3pkf7o6ydi-2JYJwplQDGq9FkHme_akAuKs1X4EOZhyphenhyphen-dVH9KfrZKEVsoGtuutfgYDTlNaiSsbbwbMtXXs89MgZVsZsWv-wZrGssaKUm_I1WIxxxScqxLc6flARyyLsfmxEMVh5EfGGtvz32uwEGr1Z5UZlPssqeIvmUSfoYvGakQJ_OwZdIAm4W5A/s114/logo.png" alt="" height="60px" width="110px" />
+                </mj-column>
+            </mj-section>
+
+            <!-- FOOTER TEXTS -->
+            <mj-section>
+                <mj-column width="100%">
+                    <mj-text align="center">
+                        © 2024 Red Stick Spice Company.
+                    </mj-text>
+
+                    <mj-text align="center" padding="15px 80px" line-height="20px">
+                        Our original Baton Rouge, Louisiana retail shop is located at <span style="color:#ED8506">660 Jefferson Hwy.</span> <br /><br> 
+                        Questions? We'd love to chat. <br /> 
+                        Give us a call at <b>225-930-9967</b>
+                    </mj-text>
+
+                    <mj-text align="center">
+                       <a href="#" style="color:#000000;text-decoration:none;">Unsubscribe</a>  | <a href="#" style="color:#000000;text-decoration:none;">Privacy Policy</a> 
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+
+        <!-- COLORED LINE FOR EFFECT -->
+        <mj-section background-color="#ED8506" padding="5px"></mj-section>
+
+        <!-- EMPTY SECTION FOR MARGIN -->
+        <mj-section padding="20px"></mj-section>
+    </mj-body>
+</mjml>
