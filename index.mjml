@@ -4,7 +4,7 @@
         <mj-title>TURN EVERYDAY MEALS INTO GOURMET FEASTS ✨</mj-title>
         <mj-breakpoint width="375px" />
         <mj-attributes><mj-all padding="0" font-family="Raleway" /></mj-attributes>        
-        <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" />
     </mj-head>
 
     <mj-body background-color="#E8E6E6">
@@ -26,7 +26,7 @@
         <!-- EMAIL TITLE -->
         <mj-section background-color="white" padding="20px 0">
             <mj-column width="90%">
-                <mj-text align="center" padding="0 10px" font-size="28px" line-height="36px" font-weight="600">
+                <mj-text align="center" padding="0 10px" font-size="28px" line-height="36px" font-weight="800">
                     TURN EVERYDAY MEALS INTO GOURMET FEASTS ✨
                 </mj-text>
 
@@ -47,7 +47,7 @@
         <mj-section background-color="white" padding="20px 20px" padding-bottom="45px">
             <mj-column width="90%">
 
-                <mj-text font-size="28px" align="center" line-height="36px" font-weight="600">
+                <mj-text font-size="28px" align="center" line-height="32px" font-weight="800">
                     A GOURMET TOUCH TO YOUR DISHES
                 </mj-text>
 
@@ -55,7 +55,7 @@
                     Sea Salts for Delicious Results
                 </mj-text>
                 
-                <mj-text align="center" font-size="16px" line-height="25px" font-weight="400" padding-bottom="35px">
+                <mj-text align="center" font-size="16px" line-height="25px" padding-bottom="35px">
                     Discover how high-quality sea salts can elevate your everyday meals into gourmet experiences. Our selection of sea salts will bring new flavors and textures to your kitchen. Whether you're finishing a salad, seasoning meats, or adding a smoky twist to your favorite dishes, our sea salts are the perfect addition to your pantry.
                 </mj-text>
                 
